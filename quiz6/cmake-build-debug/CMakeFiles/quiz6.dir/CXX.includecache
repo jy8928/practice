@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elenajinyoungyoo/2018 Fall/EE312/Project /quiz6/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+
